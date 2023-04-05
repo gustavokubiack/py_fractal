@@ -21,4 +21,6 @@ python fractal_turtle.py
 
 ### Example
 
+Image generated with code
+
 ![Example](examples/ex1.png)
