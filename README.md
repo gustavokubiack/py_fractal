@@ -1,4 +1,4 @@
-## Fractal Turtle
+## py_fractal
 
 This is a simple fractal program written in Python.
 
